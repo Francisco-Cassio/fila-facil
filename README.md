@@ -1,14 +1,14 @@
-# Fila Fácil — Entrega da Dupla
+# Fila Fácil
 
 Protótipo didático de recepção para emissão e chamada de senhas por ordem de chegada (**FIFO**), desenvolvido e verificado em incrementos supervisionados com apoio de agente de IA.
 
 ---
 
-## 📋 Ficha da Entrega
+## 📋 Ficha do Projeto
 
 - **Objetivo:** Protótipo didático de emissão e chamada de senhas em ordem FIFO (`RF-01` a `RF-07`).
 - **Origem:** Lab 02 da disciplina **TEC.1053 — Tópicos Especiais em Programação** (ADS IV · IFPI · Prof. Aislan Rafael), [github.com/aislanifpi/tec1053](https://github.com/aislanifpi/tec1053).
-- **Integrantes:** Francisco de Cássio da Silva Mourão Júnior ([@Francisco-Cassio](https://github.com/Francisco-Cassio))
+- **Autor:** Francisco de Cássio da Silva Mourão Júnior ([@Francisco-Cassio](https://github.com/Francisco-Cassio))
 
 ---
 
